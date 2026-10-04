@@ -11,3 +11,5 @@ pip install -r requirements.txt
 python discord_auto_invite.py --token YOUR_BOT_TOKEN --watch-user 123456789012345678
 
 The bot needs the 'Create Instant Invite' permission in the target channel. It only generates invites, doesn't send DMs or auto-join anyone.
+
+<!-- refreshed: 2026-10-04 -->
